@@ -11,7 +11,6 @@ This is a Netflix clone project designed to replicate the core features and desi
 - [File Structure](#file-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [License](#license)
 
 ---
@@ -96,17 +95,6 @@ project-folder
   - Click on a question to reveal the answer.
 
 ---
-
-## Screenshots
-
-### Home Page:
-![Home Page](https://via.placeholder.com/800x400)
-
-### Carousel Section:
-![Carousel Section](https://via.placeholder.com/800x400)
-
-### FAQ Section:
-![FAQ Section](https://via.placeholder.com/800x400)
 
 ---
 
